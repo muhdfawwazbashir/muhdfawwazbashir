@@ -21,11 +21,7 @@ Passionate about **software engineering, research, and sustainable technology**,
 
 ---
 
-### 📊 GitHub Stats
-#| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fawwazbashir&show_icons=true&include_all_commits=true&hide_border=true" alt="Fawwaz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazbashir&langs_count=8&layout=compact&hide_border=true" alt="Fawwaz's top languages" /> |
-| ------------- | ------------- |
 
----
 
 ### 📫 Let's Connect
 - LinkedIn: [Muhammad Fawwaz Bashir](https://www.linkedin.com/in/muhammad-fawwaz-bashir)  
