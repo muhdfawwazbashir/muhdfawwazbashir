@@ -1,12 +1,13 @@
-Hi, I'm Muhammad Fawwaz Bashir 👋🏾
-Geologist | Water Resources Professional | Geospatial & Python Data Analyst
+# Hi, I'm Muhammad Fawwaz Bashir 👋🏾
+## Geologist | Water Resources Professional | Geospatial & Python Data Analyst
 
 I work at the intersection of hydrogeology, geospatial analysis, remote sensing, and data. My interests focus on groundwater sustainability, urban water resources, and understanding how climate variability and human pressures affect groundwater systems.
 
 I use Python, GIS, remote sensing, and data analysis to turn environmental and hydrogeological data into useful insights.
 
+---
 
-🔬 What I Work On
+### 🔬 What I Work On
 💧 Groundwater & Hydrogeology — groundwater assessment, borehole monitoring, and water-resource management
 
 🗺️ GIS & Remote Sensing — QGIS, Sentinel-2, NDVI, spatial analysis, and Earth observation
@@ -15,7 +16,10 @@ I use Python, GIS, remote sensing, and data analysis to turn environmental and h
 
 🌍 Environmental Research — climate variability, groundwater stress, agricultural water use, and urban water resources
 
-🚀 Featured Research
+---
+
+###🚀 Featured Research
+
 💧 Borehole Development in Kano Metropolis
 Spatial and temporal analysis of 100+ borehole records to investigate patterns of borehole development and their implications for groundwater management.
 
@@ -27,6 +31,7 @@ Python-based analysis of FAO WaPOR data to examine agricultural water-use indica
 
 🛠️ Tech Stack
 Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas • NumPy • Matplotlib • Git/GitHub
+---
 
 🎓 Background
 🎓 B.Sc. Geology — Bayero University Kano
