@@ -18,7 +18,7 @@ I use Python, GIS, remote sensing, and data analysis to turn environmental and h
 
 ---
 
-###🚀 Featured Research
+### 🚀 Featured Research
 
 💧 Borehole Development in Kano Metropolis
 Spatial and temporal analysis of 100+ borehole records to investigate patterns of borehole development and their implications for groundwater management.
@@ -29,7 +29,7 @@ Python and QGIS workflow using Sentinel-2 NDVI and CHIRPS rainfall data to asses
 🌾 Kano Agricultural Water Analysis
 Python-based analysis of FAO WaPOR data to examine agricultural water-use indicators across Kano State.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas • NumPy • Matplotlib • Git/GitHub
 ---
 
@@ -38,9 +38,8 @@ Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas •
 💻 Diploma in Backend Engineering — AltSchool Africa
 💧 Geologist — Ministry of Water Resources, Environment & Climate Change, Kano
 
-📫 Connect
-LinkedIn: Muhammad Fawwaz Bashir
-
+### 📫 Connect
+LinkedIn: [Muhammad Fawwaz Bashir](https://www.linkedin.com/in/muhammad-fawwaz-bashir)
 Email: muhdfawwazbashir@gmail.com
 
 Using geology, geospatial data, and Python to better understand water resources and environmental systems.
