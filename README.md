@@ -25,9 +25,13 @@ I use Python, GIS, remote sensing, and data analysis to turn environmental and h
 
 🌾 Kano Agricultural Water Analysis
 
+---
+
 ### 🛠️ Tech Stack
 
 Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas • NumPy • Matplotlib • Git/GitHub
+
+---
 
 ### 🎓 Background
 
@@ -36,6 +40,8 @@ Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas •
 💻 Diploma in Backend Engineering — AltSchool Africa
 
 💧 Geologist — Ministry of Water Resources, Environment & Climate Change, Kano
+
+---
 
 ### 📫 Connect
 
