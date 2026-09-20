@@ -1,6 +1,8 @@
 # Hi, I'm Muhammad Fawwaz Bashir 👋🏾
 ## Geologist | Water Resources Professional | Geospatial & Python Data Analyst
 
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Fawwaz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fawwaz-bashir)](https://www.linkedin.com/in/muhammad-fawwaz-bashir)
+
 I work at the intersection of hydrogeology, geospatial analysis, remote sensing, and data. My interests focus on groundwater sustainability, urban water resources, and understanding how climate variability and human pressures affect groundwater systems.
 
 I use Python, GIS, remote sensing, and data analysis to turn environmental and hydrogeological data into useful insights.
