@@ -18,21 +18,18 @@ I use Python, GIS, remote sensing, and data analysis to turn environmental and h
 
 ---
 
-### 🚀 Featured Research
+### 🚀 Featured Projects & Research
 💧 Borehole Development in Kano Metropolis
-Spatial and temporal analysis of 100+ borehole records to investigate patterns of borehole development and their implications for groundwater management.
 
 🌍 Kano Groundwater Stress Analysis
-Python and QGIS workflow using Sentinel-2 NDVI and CHIRPS rainfall data to assess groundwater-related environmental stress across 44 LGAs in Kano State.
 
 🌾 Kano Agricultural Water Analysis
-Python-based analysis of FAO WaPOR data to examine agricultural water-use indicators across Kano State.
 
 ### 🛠️ Tech Stack
 
 Python • SQL • PostgreSQL • QGIS • GeoPandas • Rasterio • Pandas • NumPy • Matplotlib • Git/GitHub
 
-🎓 Background
+### 🎓 Background
 
 🎓 B.Sc. Geology — Bayero University Kano
 
